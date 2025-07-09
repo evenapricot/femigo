@@ -3,10 +3,9 @@
 
 **Femigo** is a women-centric safety and navigation web app designed to enhance personal security through verified access and intelligent route planning.
 
-## 🔗 Live App Links
+## 🔗 Live App Link
 
-- 🌐 [Launch Femigo on GitHub Pages](https://evenapricot.github.io/femigo/)
-- 🔧 [Development Workspace (Firebase Studio)](https://9000-firebase-studio-1751783029726.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev)
+- 🔧 [Launch FEMIGO (Firebase Studio)](https://9000-firebase-studio-1751783029726.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev)
 
 ## 🚀 Features
 
