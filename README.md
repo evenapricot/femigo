@@ -1,1 +1,2 @@
 # femigo
+<hr> FEMIGO is an innovative mobile-first solution designed to empower women with safer navigation in urban spaces. By intelligently mapping real-time location data, user-submitted safety ratings, and dynamic threat zones, the app offers optimized, low-risk routes. With emergency features like quick-alert buttons, voice-command SOS, and integrated live tracking, Femigo becomes more than a map—it becomes a companion! </hr>
