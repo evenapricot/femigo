@@ -3,11 +3,6 @@
 
 **Femigo** is a women-centric safety and navigation web app designed to enhance personal security through verified access and intelligent route planning.
 
-## 🔗 Live App Link
-
-- 🔧 [Launch FEMIGO (Firebase Studio)](https://9000-firebase-studio-1751783029726.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev)
-
-## 🚀 Features
 
 - **Secure 2FA Login** with SMS & Email OTP
 - **Female-Only Access** via Aadhaar & AI face verification
